@@ -1,0 +1,9 @@
+# Add here the list of websites you want to parse
+
+http://www.lemonde.fr/
+http://www.liberation.fr/
+http://www.lefigaro.fr/
+## http://www.humanite.fr/
+## http://www.la-croix.com/
+# http://www.lequipe.fr/ # n'utilise pas de balises <p>
+http://www.lesechos.fr/
